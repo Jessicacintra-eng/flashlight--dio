@@ -3,10 +3,11 @@
 Desafio dio: Construindo um app usando o sensor de movimento com React Native
 
 <div>
-<img src="https://user-images.githubusercontent.com/28990749/165650549-07daaabe-15fa-432e-9146-71bae90e43b0.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/79220648/171951725-16078725-f49c-4de3-92be-d0e723e60e06.png" alt="drawing" width="200"/>
 
-<img src="https://user-images.githubusercontent.com/28990749/165650568-afdd77ea-fa79-488c-ac0b-13c9ecce847c.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/79220648/171951820-4500f5d0-9d17-4195-930f-ca03a249909e.png" alt="drawing" width="200"/>
 </div>
+
 
 
 ## Conteúdo 
